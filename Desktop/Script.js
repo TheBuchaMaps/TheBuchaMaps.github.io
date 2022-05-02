@@ -1,5 +1,5 @@
 if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-    $('head').prepend('<meta http-equiv="refresh" content="0; url=Mobile/index.html">')
+    $('head').prepend('<meta http-equiv="refresh" content="0; url=https://libertyteam.github.io/Mobile/index.html">')
 } else {
     //pass
 }
