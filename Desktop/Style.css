@@ -44,6 +44,7 @@ ul li img{
     top: 100px;
     left: 40px;
     display: flex;
+    width: 600px;
 }
 .appImage{
     width: 200px;
